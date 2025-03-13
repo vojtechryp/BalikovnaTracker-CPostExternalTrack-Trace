@@ -1,0 +1,3 @@
+([('main',
+   '/Users/vojtechryp/Desktop/Obchod/ObchodExcel/dist/main',
+   'EXECUTABLE')],)
